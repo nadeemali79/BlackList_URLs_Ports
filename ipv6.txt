@@ -1,0 +1,9 @@
+# SSH brute-force attackers
+# Source: https://lists.blocklist.de/lists/ssh.txt
+# Entries: 3
+# Generated: 2026-06-21 00:05:44 UTC
+# Format: one CIDR per line (#-comments allowed)
+
+2a06:4884:5000::61
+2a06:4884:9000::b3
+2a06:4884:b000::d2
